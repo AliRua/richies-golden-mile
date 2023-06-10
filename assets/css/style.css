@@ -4,10 +4,16 @@
     border: solid red 1px;
 } */
 
-* {
+*,
+*::after,
+*::before {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+header {
+    background-color: aqua;
 }
 
 body {
@@ -21,39 +27,16 @@ h2 {
     color: black;
 }
 
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    flex-direction: row;
-    background-color: aqua;
+.logo {
+    float: left;
+    font-size: 250%;
 }
 
 .menu {
-    font-size: 110%;
-    font-weight: 400;
-}
-
-.menu,
-.logo {
-    padding: 50px;
-    line-height: 75px;
+    font-size: 100%;
 }
 
 .menu li {
-    display: inline-block;
-    margin-right: 50px;
-}
-
-.menu a {
-    text-decoration: none;
-    color: inherit;
-}
-
-.menu a:hover {
-    border-bottom: 1px solid black;
-}
-
-.active {
-    border-bottom: 1px solid black;
+    float: right;
+    list-style-type: none;
 }
