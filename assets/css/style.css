@@ -10,3 +10,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+h1,
+h2 {
+    font-family: Oxygen, sans-serif;
+    color: #252525;
+}
