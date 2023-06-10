@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Rufina&display=swap');
 
-/* * {
-    border: solid red 1px;
-} */
-
 *,
 *::after,
 *::before {
@@ -12,9 +8,9 @@
     box-sizing: border-box;
 }
 
-header {
+/* header {
     background-color: aqua;
-}
+} */
 
 body {
     font-family: Rufina, sans-serif;
@@ -30,13 +26,33 @@ h2 {
 .logo {
     float: left;
     font-size: 250%;
+    margin-left: 20px;
 }
 
 .menu {
     font-size: 100%;
 }
 
+.menu,
+.logo {
+    line-height: 75px;
+}
+
 .menu li {
     float: right;
     list-style-type: none;
+    margin-right: 40px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
