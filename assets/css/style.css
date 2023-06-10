@@ -11,6 +11,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: Rufina, sans-serif;
+}
+
 h1,
 h2 {
     font-family: Oxygen, sans-serif;
