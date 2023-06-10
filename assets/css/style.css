@@ -8,10 +8,6 @@
     box-sizing: border-box;
 }
 
-/* header {
-    background-color: aqua;
-} */
-
 body {
     font-family: Rufina, sans-serif;
     color: black;
@@ -55,4 +51,13 @@ h2 {
 
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.parallax {
+    background-image: url(../image);
 }
