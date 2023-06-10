@@ -60,7 +60,7 @@ html {
 
 .parallax {
     background-image: url(../images/feet-out-of-water.jpg);
-    height: 100%;
+    min-height: 2600px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
