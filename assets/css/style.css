@@ -21,3 +21,8 @@ h2 {
     font-family: Oxygen, sans-serif;
     color: #252525;
 }
+
+.logo {
+    display: flex;
+    justify-content: flex-start;
+}
