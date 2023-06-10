@@ -22,7 +22,19 @@ h2 {
     color: #252525;
 }
 
-.logo {
+header {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: flex-start;
 }
+
+.menu {
+    font-size: 110%;
+    font-weight: 400;
+}
+
+/* .menu li {
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+} */
