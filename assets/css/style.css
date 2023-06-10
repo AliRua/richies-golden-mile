@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Rufina&display=swap');
 
-* {
+/* * {
     border: solid red 1px;
-}
+} */
 
-*::after,
-*::before {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -13,19 +12,21 @@
 
 body {
     font-family: Rufina, sans-serif;
-    color: #3a3a3a;
+    color: black;
 }
 
 h1,
 h2 {
     font-family: Oxygen, sans-serif;
-    color: #252525;
+    color: black;
 }
 
 header {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: flex-end;
+    flex-direction: row;
+    background-color: aqua;
 }
 
 .menu {
@@ -33,8 +34,26 @@ header {
     font-weight: 400;
 }
 
-/* .menu li {
-    display: flex;
-    justify-content: flex-end;
-    align-items: stretch;
-} */
+.menu,
+.logo {
+    padding: 50px;
+    line-height: 75px;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
