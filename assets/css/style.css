@@ -58,12 +58,12 @@ header {
     border-bottom: 1px solid #3a3a3a;
 }
 
-body,
+/* body,
 html {
     height: 100%;
-}
+} */
 
-.parallax {
+.para-image-1 {
     background-image: url(../images/feet-out-of-water-three.jpg);
     min-height: 865px;
     background-attachment: fixed;
