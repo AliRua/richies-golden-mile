@@ -63,9 +63,12 @@ html {
     height: 100%;
 } */
 
-.para-image-1 {
-    background-image: url(../images/feet-out-of-water-three.jpg);
-    min-height: 865px;
+.para-image-1,
+.para-image-2,
+.para-image-3,
+.para-image-4 {
+    /* background-image: url(../images/para-image-1.jpg);
+    min-height: 865px; */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -73,15 +76,36 @@ html {
     clear: both;
 }
 
+.para-image-1 {
+    background-image: url(../images/para-image-1.jpg);
+    min-height: 865px;
+}
+
+.para-image-2 {
+    background-image: url(../images/para-image-2.jpg);
+    min-height: 430px;
+}
+
+.para-image-3 {
+    background-image: url(../images/para-image-3.jpg);
+    min-height: 430px;
+}
+
+.para-image-4 {
+    background-image: url(../images/para-image-4.jpg);
+    min-height: 400px;
+}
+
 .para-heading-one {
     color: #777;
     background-color: white;
     text-align: center;
     padding: 50px 80px;
-    /* text-align: justify; */
 }
 
-/* .parallax h2,
-p {
+.para-heading-two {
+    color: #777;
+    background-color: white;
     text-align: center;
-} */
+    padding: 50px 80px;
+}
