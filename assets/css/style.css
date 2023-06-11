@@ -58,11 +58,6 @@ header {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* body,
-html {
-    height: 100%;
-} */
-
 .para-image-1,
 .para-image-2,
 .para-image-3,
@@ -77,27 +72,27 @@ html {
 
 .para-image-1 {
     background-image: url(../images/para-image-1.jpg);
-    min-height: 430px;
+    min-height: 500px;
 }
 
 .para-image-2 {
     background-image: url(../images/para-image-2.jpg);
-    min-height: 430px;
+    min-height: 500px;
 }
 
 .para-image-3 {
     background-image: url(../images/para-image-3.jpg);
-    min-height: 430px;
+    min-height: 500px;
 }
 
 .para-image-4 {
     background-image: url(../images/para-image-4.jpg);
-    min-height: 400px;
+    min-height: 100%;
 }
 
 .para-image-5 {
     background-image: url(../images/para-image-5.jpg);
-    min-height: 865px;
+    height: 750px;
 }
 
 .para-heading-one {
