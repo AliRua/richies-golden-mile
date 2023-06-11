@@ -19,10 +19,10 @@ h2 {
     color: black;
 }
 
-header {
+/* header {
     min-height: 80px;
-    background-color: aqua;
-}
+    background-color: #355C7D;
+} */
 
 .logo {
     float: left;
@@ -67,7 +67,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    clear: both;
+    /* clear: both; */
 }
 
 .para-image-1 {
