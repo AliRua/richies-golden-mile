@@ -66,9 +66,8 @@ html {
 .para-image-1,
 .para-image-2,
 .para-image-3,
-.para-image-4 {
-    /* background-image: url(../images/para-image-1.jpg);
-    min-height: 865px; */
+.para-image-4,
+.para-image-5 {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -78,7 +77,7 @@ html {
 
 .para-image-1 {
     background-image: url(../images/para-image-1.jpg);
-    min-height: 865px;
+    min-height: 430px;
 }
 
 .para-image-2 {
@@ -94,6 +93,11 @@ html {
 .para-image-4 {
     background-image: url(../images/para-image-4.jpg);
     min-height: 400px;
+}
+
+.para-image-5 {
+    background-image: url(../images/para-image-5.jpg);
+    min-height: 865px;
 }
 
 .para-heading-one {
