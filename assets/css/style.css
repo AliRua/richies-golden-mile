@@ -53,14 +53,14 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-body,
+/* body,
 html {
     height: 100%;
-}
+} */
 
 .parallax {
-    background-image: url(../images/feet-out-of-water.jpg);
-    min-height: 2600px;
+    background-image: url(../images/feet-out-of-water-three.jpg);
+    min-height: 1700px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
