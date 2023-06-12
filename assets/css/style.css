@@ -57,6 +57,7 @@ header {
     border-bottom: 1px solid #3a3a3a;
 }
 
+.bgimg-1,
 .para-image-1,
 .para-image-2,
 .para-image-3,
@@ -67,6 +68,11 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     clear: both;
+}
+
+.bgimg-1 {
+    background-image: url(../images/bgimg-1.jpg);
+    min-height: 750px;
 }
 
 .para-image-1 {
