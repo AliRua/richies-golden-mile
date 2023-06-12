@@ -58,6 +58,7 @@ header {
 }
 
 .bgimg-1,
+.bgimg-4,
 .para-image-1,
 .para-image-2,
 .para-image-3,
@@ -73,6 +74,11 @@ header {
 .bgimg-1 {
     background-image: url(../images/bgimg-1.jpg);
     min-height: 750px;
+}
+
+.bgimg-4 {
+    background-image: url(../images/bgimg-4.jpg);
+    min-height: 500px;
 }
 
 .para-image-1 {
