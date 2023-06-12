@@ -88,14 +88,7 @@ header {
     min-height: 500px;
 }
 
-.para-heading-one {
-    color: #777;
-    background-color: white;
-    text-align: center;
-    padding: 50px 80px;
-}
-
-.para-heading-two {
+.span-heading {
     color: #777;
     background-color: white;
     text-align: center;
