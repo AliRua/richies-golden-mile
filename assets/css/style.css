@@ -50,20 +50,17 @@ header {
 }
 
 .menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid black;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid black;
 }
 
 .bgimg-1,
-.bgimg-4,
-.para-image-1,
-.para-image-2,
-.para-image-3,
-.para-image-4,
-.para-image-5 {
+.bgimg-2,
+.bgimg-3,
+.bgimg-4 {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -76,11 +73,20 @@ header {
     min-height: 750px;
 }
 
+.bgimg-2 {
+    background-image: url(../images/bgimg-2.jpg);
+    min-height: 500px;
+}
+
+.bgimg-3 {
+    background-image: url(../images/bgimg3.jpg);
+    min-height: 500px;
+}
+
 .bgimg-4 {
     background-image: url(../images/bgimg-4.jpg);
     min-height: 500px;
 }
-
 
 .para-heading-one {
     color: #777;
