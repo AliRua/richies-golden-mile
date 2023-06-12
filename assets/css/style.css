@@ -81,30 +81,6 @@ header {
     min-height: 500px;
 }
 
-.para-image-1 {
-    background-image: url(../images/para-image-1.jpg);
-    min-height: 500px;
-}
-
-.para-image-2 {
-    background-image: url(../images/para-image-2.jpg);
-    min-height: 500px;
-}
-
-.para-image-3 {
-    background-image: url(../images/para-image-3.jpg);
-    min-height: 500px;
-}
-
-.para-image-4 {
-    background-image: url(../images/para-image-4.jpg);
-    min-height: 100%;
-}
-
-.para-image-5 {
-    background-image: url(../images/para-image-5.jpg);
-    height: 750px;
-}
 
 .para-heading-one {
     color: #777;
