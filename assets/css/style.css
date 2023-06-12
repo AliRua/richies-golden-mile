@@ -14,7 +14,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
     font-family: Oxygen, sans-serif;
     color: black;
 }
@@ -85,7 +86,7 @@ header {
 
 .bgimg-4 {
     background-image: url(../images/bgimg-4.jpg);
-    min-height: 500px;
+    min-height: 900px;
 }
 
 .span-heading {
