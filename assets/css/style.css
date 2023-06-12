@@ -14,7 +14,8 @@ body {
 }
 
 h1,
-h2, h3 {
+h2,
+h3 {
     font-family: Oxygen, sans-serif;
     color: black;
 }
@@ -99,5 +100,20 @@ header {
 }
 
 footer {
-    height: 150px;
+    height: 100px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 0;
+    padding: 5%;
+    color: black;
 }
