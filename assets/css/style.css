@@ -56,11 +56,12 @@ header {
 }
 
 .menu a:hover {
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid #dba868;
+    color: #dba868;
 }
 
 .active {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #544144ff;
 }
 
 .bgimg-1,
