@@ -17,7 +17,7 @@ h1,
 h2,
 h3 {
     font-family: Oxygen, sans-serif;
-    color: black;
+    color: #544144ff;
 }
 
 header {
@@ -36,6 +36,7 @@ header {
 
 .menu {
     font-size: 110%;
+    color: #544144ff;
 }
 
 .menu,
