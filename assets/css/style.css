@@ -153,17 +153,28 @@ footer {
     font-size: 125%;
     font-family: Oxygen, sans-serif;
 
-    width: 200x;
+    width: 315px;
     height: 100px;
     text-align: center;
+    padding-right: 5px;
 
     padding-top: 30px;
     padding-left: 10px;
 
-    background-color: rgba(192, 115, 51, .5);
+    background-color: rgba(72, 128, 172, .5);
+    border-radius: 15px;
 
     bottom: 30px;
     right: 150px;
 
     position: absolute;
+}
+
+.register-button a {
+    text-decoration: none;
+    color: #CFCDCEff;
+}
+
+.register-button:hover {
+    background-color: #4880ACff;
 }
