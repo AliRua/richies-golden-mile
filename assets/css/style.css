@@ -134,8 +134,7 @@ footer {
 }
 
 iframe {
-    width: 30%;
-    aspect-ratio: 16/9;
-    height: 0 auto;
+    width: 100%;
+    height: auto;
     padding: 20px;
 }
