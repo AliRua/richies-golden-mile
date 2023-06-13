@@ -139,13 +139,3 @@ footer {
     aspect-ratio: 16/9;
     padding: 20px;
 }
-
-.event-info {
-    min-height: 1200px;
-    background-image: url(../images/bgimg-7.avif);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    clear: both;
-}
