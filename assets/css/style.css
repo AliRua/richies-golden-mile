@@ -34,6 +34,11 @@ header {
     margin-left: 20px;
 }
 
+.logo:hover {
+    color: #dba868;
+    font-size: 220%;
+}
+
 .menu {
     font-size: 110%;
     color: #544144ff;
@@ -58,6 +63,7 @@ header {
 .menu a:hover {
     border-bottom: 2px solid #dba868;
     color: #dba868;
+    font-size: 115%;
 }
 
 .active {
