@@ -30,7 +30,7 @@ header {
 
 .logo {
     float: left;
-    font-size: 250%;
+    font-size: 210%;
     margin-left: 20px;
 }
 
@@ -118,8 +118,6 @@ footer {
 
 .social-networks i {
     font-size: 200%;
-    /* margin: 0; */
-    /* padding: 5%; */
     margin-top: 35px;
     margin-right: 40px;
     color: #544144ff;
