@@ -144,7 +144,7 @@ footer {
     padding: 20px;
 }
 
-.register-button {
+.register-btn {
     font-size: 125%;
     font-family: Oxygen, sans-serif;
 
@@ -165,12 +165,12 @@ footer {
     position: absolute;
 }
 
-.register-button a {
+.register-btn a {
     text-decoration: none;
     color: white;
 }
 
-.register-button:hover {
+.register-btn:hover {
     background-color: #dba868;
     color: #544144ff;
 }
