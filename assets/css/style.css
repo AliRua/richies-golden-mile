@@ -116,7 +116,9 @@ footer {
 
 .social-networks i {
     font-size: 200%;
-    margin: 0;
-    padding: 5%;
-    color: black;
+    /* margin: 0; */
+    /* padding: 5%; */
+    margin-top: 35px;
+    margin-right: 40px;
+    color: #544144ff;
 }
