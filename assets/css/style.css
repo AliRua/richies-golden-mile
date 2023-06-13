@@ -70,6 +70,10 @@ header {
     border-bottom: 1px solid #544144ff;
 }
 
+.main-index {
+    position: relative;
+}
+
 .bgimg-1,
 .bgimg-2,
 .bgimg-3,
@@ -138,4 +142,28 @@ footer {
     height: auto;
     aspect-ratio: 16/9;
     padding: 20px;
+}
+
+.register-button,
+.register-button h2 {
+    color: #C2C9D1ff;
+}
+
+.register-button {
+    font-size: 125%;
+    font-family: Oxygen, sans-serif;
+
+    width: 200x;
+    height: 100px;
+    text-align: center;
+
+    padding-top: 30px;
+    padding-left: 10px;
+
+    background-color: rgba(192, 115, 51, .5);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
 }
