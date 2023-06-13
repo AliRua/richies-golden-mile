@@ -134,7 +134,8 @@ footer {
 }
 
 .span-heading iframe {
-    width: 100%;
+    width: 60%;
     height: auto;
+    aspect-ratio: 16/9;
     padding: 20px;
 }
