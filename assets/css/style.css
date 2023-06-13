@@ -133,7 +133,7 @@ footer {
     color: #dba868;
 }
 
-iframe {
+.span-heading iframe {
     width: 100%;
     height: auto;
     padding: 20px;
