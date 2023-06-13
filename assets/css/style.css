@@ -144,10 +144,10 @@ footer {
     padding: 20px;
 }
 
-.register-button,
+/* .register-button,
 .register-button h2 {
     color: #C2C9D1ff;
-}
+} */
 
 .register-button {
     font-size: 125%;
@@ -172,9 +172,10 @@ footer {
 
 .register-button a {
     text-decoration: none;
-    color: #CFCDCEff;
+    color: white;
 }
 
 .register-button:hover {
-    background-color: #4880ACff;
+    background-color: #dba868;
+    color: #544144ff;
 }
