@@ -36,7 +36,6 @@ header {
 
 .logo:hover {
     color: #dba868;
-    font-size: 220%;
 }
 
 .menu {
@@ -63,7 +62,7 @@ header {
 .menu a:hover {
     border-bottom: 2px solid #dba868;
     color: #dba868;
-    font-size: 115%;
+    font-weight: 500;
 }
 
 .active {
