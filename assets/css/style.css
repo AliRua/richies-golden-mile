@@ -122,3 +122,7 @@ footer {
     margin-right: 40px;
     color: #544144ff;
 }
+
+.social-networks i:hover {
+    color: #dba868;
+}
