@@ -179,7 +179,8 @@ footer {
     color: #544144ff;
 }
 
-.register-section {
+.register-section,
+.response-section {
     min-height: 100vh;
     background: url(../images/bgimg-6.jpg) no-repeat;
     background-size: cover;
@@ -221,19 +222,31 @@ footer {
 .register-form .send-btn {
     float: right;
     background: #4880ACff;
-    color: #fff;
+    color: white;
     border: none;
     width: 120px;
     height: 40px;
     font-size: 15px;
     font-weight: 600;
     border-radius: 5px;
-    cursor: pointer;
     transition: 0.3s;
 }
 
 .register-form .send-btn:hover {
     background: #dba868
+}
+
+.response-button {
+    float: right;
+    color: #c07333;
+    text-decoration: none;
+    border: none;
+    margin: 20px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800;
 }
 
 @media screen and (max-width: 650px) {
