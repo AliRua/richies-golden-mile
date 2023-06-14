@@ -177,3 +177,37 @@ footer {
 .register-btn:hover a {
     color: #544144ff;
 }
+
+@media screen and (max-width: 650px) {
+    header {
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .menu, .logo {
+        line-height: normal !important;
+    }
+
+    .menu {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+        flex-direction: row-reverse;
+    }
+
+    .menu li {
+        margin: 0 auto !important;
+    }
+
+    .span-heading iframe {
+        width: 100%;
+    }
+
+    .register-btn {
+        margin: 0 auto;
+        right: 0;
+        left: 0;
+    }
+}
