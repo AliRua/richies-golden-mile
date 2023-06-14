@@ -325,15 +325,3 @@ footer {
 .register-form .text-box {
     width: 100%;
 }
-
-.alert-success {
-    z-index: 1;
-    background: #c07333;
-    font-size: 18px;
-    padding: 20px 40px;
-    min-width: 420px;
-    position: relative;
-    right: 0;
-    top: 10px;
-    border-left: 8px solid #561b0c
-}
