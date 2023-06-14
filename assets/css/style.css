@@ -238,15 +238,14 @@ footer {
 
 .response-button {
     float: right;
-    color: #c07333;
+    color: #062F4Aff;
     text-decoration: none;
-    border: none;
     margin: 20px;
     width: 250px;
     height: 40px;
     text-align: center;
     font-size: 25px;
-    font-weight: 800;
+    font-weight: 700;
 }
 
 @media screen and (max-width: 650px) {
