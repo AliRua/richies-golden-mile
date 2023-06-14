@@ -179,6 +179,64 @@ footer {
     color: #544144ff;
 }
 
+.register-section {
+    min-height: 100vh;
+    background: url(../images/bgimg-6.jpg) no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-form {
+    max-width: 700px;
+    margin-right: 50px;
+}
+
+.register-form h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.register-form, .text-box {
+    background: black;
+    color: #fff;
+    border: none;
+    width: calc(50% - 10px);
+    height: 50px;
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    opacity: 0.9;
+}
+
+.register-form,
+.text-box:first-child {
+    margin-right: 15px;
+}
+
+.register-form .send-btn {
+    float: right;
+    background: #4880ACff;
+    color: #fff;
+    border: none;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.register-form .send-btn:hover {
+    background: #dba868
+}
 
 @media screen and (max-width: 650px) {
     header {
