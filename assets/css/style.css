@@ -179,13 +179,6 @@ footer {
     color: #544144ff;
 }
 
-.register-section {
-    clear: left;
-    background-image: url(../images/bgimg-6.jpg);
-    background-size: cover;
-    background-position: center;
-    height: 850px;
-}
 
 @media screen and (max-width: 650px) {
     header {
