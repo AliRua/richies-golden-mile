@@ -186,7 +186,7 @@ footer {
     }
 
     .menu, .logo {
-        line-height: normal !important;
+        line-height: normal;
     }
 
     .menu {
@@ -198,7 +198,7 @@ footer {
     }
 
     .menu li {
-        margin: 0 auto !important;
+        margin: 0 auto;
     }
 
     .span-heading iframe {
