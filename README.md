@@ -107,8 +107,10 @@ Here a potential participant can learn what the Golden Mile is, where it is, whe
 ### Bugs
 
 - ##### Solved bugs
+
   - A bug appeared in the Gallery section on mobile devices. Two columns were set but the right column images would squash and were not viewable.
   - I fixed it by adding another breakpoint specifically for devices under 360px and set the colummn display to one only.
+
   ***
 
   - Another small bug I found was the font color on the Register and Response pages was difficult to see on smaller devices due to the position of the background image.
@@ -124,7 +126,10 @@ Here a potential participant can learn what the Golden Mile is, where it is, whe
 - ##### HTML
   - No errors or warnings were found when passing through the official W3C validator.
 - ##### CSS
+
   - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
+    ![W3C validator](assets/images/html-and-css-validation.png)
+
 - ##### Accessibility and performance
   - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
     ![Performance score](assets/images/lighthouse-results.png)
