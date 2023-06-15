@@ -181,6 +181,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: inherit;
 }
 
 .register-form {
@@ -188,8 +189,8 @@ footer {
     margin-right: 50px;
 }
 
-.register-form h2 {
-    color: #544144ff;
+.register-form h2, .response-section h2 {
+    color: white;
     text-align: center;
     font-size: 25px;
     margin-bottom: 30px;
