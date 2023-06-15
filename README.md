@@ -128,7 +128,7 @@ Here a potential participant can learn what the Golden Mile is, where it is, whe
 - ##### CSS
 
   - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
-    ![W3C validator](assets/images/html-and-css-validation.png)
+    ![W3C validator](assets/images/html-and-css-validation.jpg)
 
 - ##### Accessibility and performance
   - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
