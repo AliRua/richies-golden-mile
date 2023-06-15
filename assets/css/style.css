@@ -337,3 +337,22 @@ footer {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 350px) {
+    .grid-wrapper .wide {
+        grid-column: span 1;
+    }
+
+    .grid-wrapper .tall {
+        grid-row: span 1;
+    }
+
+    .grid-wrapper .big {
+        grid-column: span 1;
+        grid-row: span 1;
+    }
+
+    .social-networks i {
+        padding-left: 35px;
+    }
+}
