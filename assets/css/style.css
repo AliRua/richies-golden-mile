@@ -146,18 +146,14 @@ footer {
 .register-btn {
     font-size: 125%;
     font-family: Oxygen, sans-serif;
-
     width: 315px;
     height: 100px;
     text-align: center;
     padding-right: 5px;
-
     padding-top: 30px;
     padding-left: 10px;
-
     background-color: rgba(72, 128, 172, .5);
     border-radius: 15px;
-
     bottom: 30px;
     right: 150px;
 
