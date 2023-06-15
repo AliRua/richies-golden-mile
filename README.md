@@ -141,7 +141,7 @@ Here a potential participant can learn what the Golden Mile is, where it is, whe
 
 - ##### Content
   - The code to make social media links was taken from the Code Institute [Love Running](https://alirua.github.io/love-running/) project and styled to my site.
-  - To make animated input fields I watched a video by [Coding Snow](https://alirua.github.io/love-running/) on their YouTube channel.
+  - To make animated input fields I watched a video by [Coding Snow](https://youtu.be/8kTPtrz7PiU) on their YouTube channel.
   - Some color palette schemes were taken from [Coolers](https://coolors.co/)
   - For some responsive aspect ratio guidance I used [CSS-Tricks](https://css-tricks.com/)
 - ##### Media
