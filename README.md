@@ -154,5 +154,3 @@ Here a potential participant can learn what the Golden Mile is, where it is, whe
   - Most of the images were my own or families.
 
 ---
-
-#### Wireframes
