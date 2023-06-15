@@ -189,7 +189,14 @@ footer {
     margin-right: 50px;
 }
 
-.register-form h2, .response-section h2 {
+.register-form h2 {
+    color: #544144ff;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.response-section h2 {
     color: white;
     text-align: center;
     font-size: 25px;
